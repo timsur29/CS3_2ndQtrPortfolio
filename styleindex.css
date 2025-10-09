@@ -46,6 +46,8 @@ button {
 div {
     font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
     color: navy;
+    margin-block: 10px;
+    margin-inline: 10px;
 }
 #enclosure1 {
     display: inline-block;

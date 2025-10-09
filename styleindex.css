@@ -57,6 +57,13 @@ div {
     border-radius: 10px;
     max-width: 1000px;
 }
+
+#hugot {
+    color: transparent;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
+    size: 42px;
+}
+
 label {
     font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
     color: navy;
